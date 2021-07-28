@@ -2,7 +2,7 @@
   "name": "teste",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://luizcssantos1.github.io/teste/",
+  "homepage": "https://luizcssantos1.github.io/personalPage/",
   "dependencies": {
     "node-sass": "4.14.1",
     "react": "17.0.2",
